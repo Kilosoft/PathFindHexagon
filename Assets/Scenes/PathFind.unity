@@ -1738,7 +1738,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_cellSelector: {fileID: 1508029512}
-  m_prefabs: {fileID: 11400000, guid: ecfac7c96455e104b933f56b73ee1a41, type: 2}
+  m_prefabs: {fileID: 11400000, guid: 7224e095cdbbe5a4a899b530eba9ef1d, type: 2}
   m_mapSizeX: 7
   m_mapSizeY: 9
 --- !u!4 &1508029511
